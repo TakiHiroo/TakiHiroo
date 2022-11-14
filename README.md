@@ -31,3 +31,6 @@ I am a adaptive full-stack web developer wants to always learn and improve himse
 ### 🖥️ Tools i use for Editing 🖥️
 
 <img align="left" alt="Fig" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+<img align="left" alt="Ae" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" />
+<img align="left" alt="ps" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
+
