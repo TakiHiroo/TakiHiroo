@@ -1,4 +1,4 @@
- <h1><a href="https://www.linkedin.com/in/ivan-belarmino-508a58218/">Taki Hiroo 🧑🏻‍💻</a></h1>
+ <h1 href="https://www.linkedin.com/in/ivan-belarmino-508a58218/">Taki Hiroo 🧑🏻‍💻</h1>
 
 **`Artisan of Techology (-> Developer/Video editor <-)`**
 
@@ -8,4 +8,4 @@ I am a adaptive full-stack web developer wants to always learn and improve himse
 
 <hr/>
 
-<h3>Language i play in programming world</h3>
+<h2>Language i play in programming world</h2>
