@@ -1,3 +1,3 @@
 ### TakiHiroo 🧑🏻‍💻
 
-**`Website artisan (-> Developer/Video editor <-)`**
+**`Artisan in Website (-> Developer/Video editor <-)`**
