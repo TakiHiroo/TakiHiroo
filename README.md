@@ -3,5 +3,5 @@
 **`Artisan in Website (-> Developer/Video editor <-)`**
 
 <p>
-Full Stack Online Developer with extensive experience and a specialty in creating dynamic web applications. possesses the capacity to quickly learn new hardware, software, programming languages, and procedures. Professional with great communication and problem-solving abilities who is highly driven. committed to doing high-quality work on schedule and within budget.
+An adaptive full-stack web developer wants to always learn and improve himself, socializing and adapting to the organization's environment. striving to achieve the goals and pursue the dream in life. All in my portfolio was made from the scratch, a part from that is come from the ideas of other developer and enhance it with other design and animation. 
 </p>
