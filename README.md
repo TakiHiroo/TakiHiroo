@@ -1,5 +1,4 @@
- <link href="link.css" rel="stylesheet"/>
- <h1><a href="https://www.linkedin.com/in/ivan-belarmino-508a58218/">Taki Hiroo 🧑🏻‍💻</a></h1>
+ <h1 text-decoration="none"><a href="https://www.linkedin.com/in/ivan-belarmino-508a58218/">Taki Hiroo 🧑🏻‍💻</a></h1>
 
 **`Artisan in Website (-> Developer/Video editor <-)`**
 
