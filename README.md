@@ -1,4 +1,6 @@
- <h1>Taki-Hiroo 🧑🏻‍💻</h1>
+ <link href="link.css" rel="stylesheet" />
+ 
+ <h1><a href="">Taki Hiroo 🧑🏻‍💻</a></h1>
 
 **`Artisan in Website (-> Developer/Video editor <-)`**
 
