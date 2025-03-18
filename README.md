@@ -3,7 +3,7 @@
 **`Artisan of Techology (-> Developer/Video editor <-)`**
 
 <p>
-An adaptive full-stack web developer wants to learn, improve, socialize, and adapt to the organization's environment. Striving to achieve the goals and pursue the dream in life. All in my portfolio was made from scratch, a part of that came from the ideas of other developers and was enhanced with other designs and animation. 
+Adaptive full-stack web developer wants to learn, improve, socialize, and adapt to the organization's environment. Striving to achieve the goals and pursue the dream in life. All in my portfolio was made from scratch, a part of that came from the ideas of other developers and was enhanced with other designs and animation. 
 </p>
 
 ---
