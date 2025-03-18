@@ -1,4 +1,4 @@
- <h1 href="https://www.linkedin.com/in/ivan-belarmino-508a58218/">Taki Hiroo 🧑🏻‍💻</h1>
+ <h1 href="https://www.linkedin.com/in/arl-ivan-belarmino-353a24354/">Taki Hiroo 🧑🏻‍💻</h1>
 
 **`Artisan of Techology (-> Developer/Video editor <-)`**
 
